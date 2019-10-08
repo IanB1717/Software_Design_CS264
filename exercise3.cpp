@@ -1,7 +1,7 @@
 #include<iomanip>
 #include<iostream>
 #include<ios>
-#include<String>
+#include<string>
 using std::cin; using std::cout; using std::endl;
 using std::setprecision; using std::string; using std::streamsize;
 int main()

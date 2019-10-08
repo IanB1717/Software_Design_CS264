@@ -11,7 +11,7 @@ void print_rectangle(int n,int m)
             if(i==1||i==n||j==1||j==m)
             cout<<"+";
             else
-            cout" ";
+            cout<<" ";
         }
         cout << endl;
     }
@@ -26,7 +26,7 @@ void print_square(int n,int m)
             if(i==1||i==n||j==1||j==m)
             cout<<"+";
             else
-            cout" ";
+            cout<<" ";
         }
         cout << endl;
     }
@@ -45,7 +45,7 @@ void print_triangle()
         {
             for(int k=1;k<=z;k++)
             {
-                count" ";
+                cout<<" ";
             }
             cout<<"+";
             z+=2;
